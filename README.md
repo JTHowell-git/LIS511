@@ -29,3 +29,6 @@ This is how you do a bullet list:
 - add a dash
     * then indent for a subitem (indent with 4 spaces)
 
+### Links
+HTML links work as this: [google] (https://www.google.com)
+Brackets hold anchor text, parenthesis holds URL. 
