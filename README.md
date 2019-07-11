@@ -32,3 +32,15 @@ This is how you do a bullet list:
 ### Links
 HTML links work as this: [google] (https://www.google.com)
 Brackets hold anchor text, parenthesis holds URL. 
+
+### Images
+
+We can include images such as:
+
+![Giants' causway](copyright-paddywagon-giants-causeway_14012019105938.jpg)
+
+Use exclamation point with brackets for anchor text and parenthesis for file name (if saved in same path as this file). 
+If not saved in same path, must include filepath along with filename in parenthesis. 
+
+
+
